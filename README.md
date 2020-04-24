@@ -103,3 +103,19 @@ P.S
 > 104743 https://repl.it/@Eugene100/pythonquiz5
 > 50
 ```
+
+### Задача 6:
+
+"Сложение простых чисел"
+
+Сумма простых чисел меньше 10 равна 2 + 3 + 5 + 7 = 17.
+
+Найдите сумму всех простых чисел меньше двух миллионов.
+
+
+Решение: [sum_prime.py](https://github.com/eugene100/python-quiz/blob/master/sum_prime.py)
+
+```
+> 142913828922 https://repl.it/@Eugene100/pythonquiz6
+> 60
+```
