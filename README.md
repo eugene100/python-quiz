@@ -71,3 +71,19 @@ P.S
 > 906609 https://repl.it/@Eugene100/pythonquiz3
 > 30
 ```
+
+### Задача 4:
+
+"Наименьшее кратное"
+
+2520 - самое маленькое число, которое делится без остатка на все числа от 1 до 10.
+
+Какое самое маленькое число делится нацело на все числа от 1 до 20?
+
+
+Решение: [smallest_multiple.py](https://github.com/eugene100/python-quiz/blob/master/smallest_multiple.py)
+
+```
+> 906609 https://repl.it/@Eugene100/pythonquiz4
+> 30
+```
