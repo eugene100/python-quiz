@@ -84,6 +84,22 @@ P.S
 Решение: [smallest_multiple.py](https://github.com/eugene100/python-quiz/blob/master/smallest_multiple.py)
 
 ```
-> 906609 https://repl.it/@Eugene100/pythonquiz4
-> 30
+> 232792560 https://repl.it/@Eugene100/pythonquiz4
+> 40
+```
+
+### Задача 5:
+
+"10001-ое простое число"
+
+Выписав первые шесть простых чисел, получим 2, 3, 5, 7, 11 и 13. Очевидно, что 6-ое простое число - 13.
+
+Какое число является 10001-ым простым числом?
+
+
+Решение: [prime_num_10001.py](https://github.com/eugene100/python-quiz/blob/master/prime_num_10001.py)
+
+```
+> 104743 https://repl.it/@Eugene100/pythonquiz5
+> 50
 ```
